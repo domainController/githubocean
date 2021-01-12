@@ -1,2 +1,2 @@
-# GitHubOcean
-GitHub Context Menu Search Firefox Extension
+# githubocean
+firefox extension launching github context menu search
