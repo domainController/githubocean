@@ -10,7 +10,7 @@ browser.contextMenus.create({
 browser.contextMenus.onClicked.addListener(launchMyGitSearch);
 
 function launchMyGitSearch(info, tab){
-	const url = "https://github.com/search?q=" + info.selectionText;
+	const gitSearchQuery = "https://github.com/search?q=" + info.selectionText;
 
-	  browser.tabs.create({url:url});
+	  browser.tabs.create({url:gitSearchQuery});
 }
