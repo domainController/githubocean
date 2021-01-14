@@ -7,9 +7,9 @@ you can now launch a github search from a browser context menu. for this select 
 this firefox extension is now available for download in the [mozilla add-ons gallery]( 
 https://addons.mozilla.org/en-US/firefox/addon/search-on-github/#&gid=1&pid=2)
 
-## installation
+## screenshots
 
-here the "borderify.js" occurence is highlighted followed up by a right-click to display the context menu
+as an example here the "borderify.js" occurence is highlighted followed up by a right-click to display the context menu
 
 ![screenshot1](https://user-images.githubusercontent.com/58897196/104469213-36fbaa80-55b0-11eb-9a7d-17107b1310e0.png)
 
