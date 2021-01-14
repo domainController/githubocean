@@ -1,6 +1,6 @@
 ## about
 
-you can now within a firefox webpage launch a github search from a browser context menu. for this select a string, right-click it and click "search on github".
+you can now launch a github search from a browser context menu. for this select a string, right-click it and click "search on github".
 
 ## installation
 
