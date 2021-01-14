@@ -1,10 +1,10 @@
 ## about
 
-you can now launch a github search from a browser context menu. for this select a string, right-click it, and click "search on github".
+you can now  in firefox launch a github search from a browser context menu. for this select a string, right-click it and click "search on github".
 
 ## installation
 
-the extension is now available for download in the [mozilla add-ons gallery]( 
+this extension is now available for download in the [mozilla add-ons gallery]( 
 https://addons.mozilla.org/en-US/firefox/addon/search-on-github/#&gid=1&pid=2)
 
 ## installation
