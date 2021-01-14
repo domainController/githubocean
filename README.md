@@ -4,7 +4,7 @@ you can now launch a github search from a browser context menu. for this select 
 
 ## installation
 
-this extension is now available for download in the [mozilla add-ons gallery]( 
+this firefox extension is now available for download in the [mozilla add-ons gallery]( 
 https://addons.mozilla.org/en-US/firefox/addon/search-on-github/#&gid=1&pid=2)
 
 ## installation
