@@ -13,6 +13,6 @@ as an example here the "borderify.js" occurence is highlighted followed up by a 
 
 ![screenshot1](https://user-images.githubusercontent.com/58897196/104469213-36fbaa80-55b0-11eb-9a7d-17107b1310e0.png)
 
-the github search results page is then displayed in a brand new tab (the last one at the top-right hand corner)
+once you clicked the "search on github" context menu item a github search results page is displayed in a brand new tab
 
 ![screenshot2](https://user-images.githubusercontent.com/58897196/104470409-96a68580-55b1-11eb-815c-dc677b9ca003.png)
