@@ -1,6 +1,6 @@
 ## about
 
-launch a github search from a browser context menu by selecting a string, right-clicking it and then clicking "search on github".
+launch a github search by selecting a string, right-clicking it and then clicking "search on github".
 
 ## installation
 
