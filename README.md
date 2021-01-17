@@ -4,8 +4,8 @@ launch a github search by selecting a string, right-clicking it and then clickin
 
 ## installation
 
-this firefox extension is now available for download in the [mozilla add-ons gallery]( 
-https://addons.mozilla.org/en-US/firefox/addon/search-on-github/#&gid=1&pid=2)
+i made my extension available for download in the [mozilla add-ons gallery]( 
+https://addons.mozilla.org/en-US/firefox/addon/search-on-github/#&gid=1&pid=2) on jan 15 2020.
 
 ## screenshots
 
